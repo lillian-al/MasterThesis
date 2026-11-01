@@ -1,0 +1,3 @@
+1_Setback,105,177.589343,297000.0,9.44e+7,35.517869,7.644602,0.623498,0.625057,7.644602,7.638588,4.714367,1104.268083,3.070493,3.073314,113.828999,113.803771,1104.268083,2480.08007,24.643031,0.000415,Satisfies H/500 limit,22.848016,177.09,297000,6.980292,3,0.866125,0.124045,0.589,1.0,0,0,0,0,0.575,0.575,0.377987,0,1,0.669375,0.802259,0.802259,0,0,0,0,1,"There are 9 groups of elements which take part in the cross section-optimization.
+[WARNING] Maximum utilization design: 1 cross sections reached the maximum cross section size. Use …
+[REMARK] There are 2 elements whose cross sections did not converge for ULS design: 45/59,45/66"
